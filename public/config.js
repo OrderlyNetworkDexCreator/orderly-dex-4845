@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "prisma_disconnect",
+  "VITE_ORDERLY_BROKER_NAME": "prisma_grad_bypass",
   "VITE_BROKER_EOA_ADDRESS": "0xfd9e08c3aaeea0a5f64fda5b786c108db2f50405",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "prisma_disconnect",
+  "VITE_APP_NAME": "prisma_grad_bypass",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
